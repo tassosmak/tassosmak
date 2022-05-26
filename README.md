@@ -1,12 +1,12 @@
 Hi 👋 My name is Tassos Makrostergios
 =====================================
 
-Software Engineer or what i think i am....
+i am a Developer 
 ------------------------------------------
 
 * 🌍  I'm based in Athens
 * ✉️  You can contact me at [tasos23072007@outlook.com.gr](mailto:tasos23072007@outlook.com.gr)
-* 🧠  I'm learning C
+* 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Operating system Developing
 
 <a href="https://www.twitter.com/TassosMak" target="_blank" rel="noreferrer"><img
