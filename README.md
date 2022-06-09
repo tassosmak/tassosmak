@@ -1,7 +1,7 @@
 Hi 👋 My name is Tassos Makrostergios
 =====================================
 
-i am a Developer 
+i am a Back End Developer 
 ------------------------------------------
 
 * 🌍  I'm based in Athens
