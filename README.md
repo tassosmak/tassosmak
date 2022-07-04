@@ -6,12 +6,12 @@ i am a Back End Developer
 
 * 🌍  I'm based in Athens
 * ✉️  You can contact me at [tasos23072007@outlook.com.gr](mailto:tasos23072007@outlook.com.gr)
-* 🖥  I"m writing everything in python(for the moment)
+* 🖥  I'm coding everything in python(for the moment)
 * 🧠  I'm learning C++
 * 🤝  I'm open to collaborating on App Development
 
-<a href="https://www.twitter.com/TassosMak" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/TassosMak?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<!-- <a href="https://www.twitter.com/TassosMak" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/TassosMak?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" -->
 /></a><a href="https://www.github.com/TASMAK" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TASMAK?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -27,8 +27,10 @@ src="https://img.shields.io/github/followers/TASMAK?logo=github&style=for-the-ba
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/TASMAK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/TassosMak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<!-- !-- <p align="left"> <a href="https://www.github.com/TASMAK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  -->
 
+<a href="https://www.twitter.com/TassosMak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+ -->
 ### Badges
 
 <b>My GitHub Stats</b>
