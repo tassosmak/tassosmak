@@ -12,8 +12,8 @@ I Am A Developer(Still learning🙂)
 
 <!-- <a href="https://www.twitter.com/TassosMak" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/TassosMak?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" -->
-</a><a href="https://www.github.com/TASMAK" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/TASMAK?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+</a><a href="https://www.github.com/TassosMak" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/TassosMak?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
