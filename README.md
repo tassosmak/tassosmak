@@ -8,7 +8,7 @@ I Am A Developer(Still learning🙂)
 * ✉️  You can contact me at [tasos23072007@outlook.com.gr](mailto:tasos23072007@outlook.com.gr)
 * 🖥  I'm coding everything in python(for the moment)
 * 🧠  I'm learning C++
-* 🤝  I'm open to collaborating on App Development
+* 🤝  I'm open to collaborating on CLI Interface Development
 
 <!-- <a href="https://www.twitter.com/TassosMak" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/TassosMak?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" -->
