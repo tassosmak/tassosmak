@@ -7,7 +7,7 @@ I Am A Developer(Still learning🙂)
 * 🌍  I'm based in Athens
 * ✉️  You can contact me at [tasos23072007@outlook.com.gr](mailto:tasos23072007@outlook.com.gr)
 * 🖥  I'm coding everything in python(for the moment)
-* 🧠  I'm learning C++
+* 🧠  I'm learning Swift
 * 🤝  I'm open to collaborating on CLI Interface Development
 
 <!-- <a href="https://www.twitter.com/TassosMak" target="_blank" rel="noreferrer"><img
